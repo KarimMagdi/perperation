@@ -11,7 +11,7 @@ All methods, properties, and types available in the Splash screen component are 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Code example](#code-example)
-* [Dependencies](#-dependencies)???
+* [Dependencies](#-dependencies)
 
 
 ## Installation
